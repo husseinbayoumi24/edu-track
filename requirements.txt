@@ -1,0 +1,5 @@
+streamlit>=1.50
+bcrypt>=4.0
+geopy>=2.4
+pandas>=2.0
+streamlit-js-eval>=0.1.7
